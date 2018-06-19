@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/google/certificate-transparency/go"
+	"github.com/google/certificate-transparency-go"
 	"github.com/mreiferson/go-httpclient"
 )
 
